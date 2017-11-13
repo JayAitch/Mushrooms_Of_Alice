@@ -1,0 +1,14 @@
+##########################
+#### Unreal Generated ####
+##########################
+*/Intermediate
+*/Binaries
+*/DerivedDataCache
+*/Itermediate
+*/Saved
+Mushrooms_Of_Alice/Imports
+
+##########################
+###### VS Generated ######
+##########################
+*.VC.db
