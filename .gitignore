@@ -12,3 +12,12 @@ Mushrooms_Of_Alice/Imports
 ###### VS Generated ######
 ##########################
 *.VC.db
+
+Saved/*
+*_BuiltData.uasset
+!Build/**/*.ico
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+DerivedDataCache/*
+Intermediate/*
