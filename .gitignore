@@ -1,13 +1,7 @@
-##########################
-#### Unreal Generated ####
-##########################
-*/Intermediate
-*/Binaries
-*/DerivedDataCache
-*/Itermediate
-*/Saved
-
-##########################
-###### VS Generated ######
-##########################
-*.VC.db
+ Binaries/
+ Intermediate/
+ Saved/
+ ProjectName.opensdf
+ ProjectName.sdf
+ ProjectName.sln
+ ProjectName.v12.suo
